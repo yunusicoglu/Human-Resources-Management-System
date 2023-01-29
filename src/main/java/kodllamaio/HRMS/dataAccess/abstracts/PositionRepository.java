@@ -3,9 +3,9 @@ package kodllamaio.HRMS.dataAccess.abstracts;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import kodllamaio.HRMS.entities.concretes.JobTitle;
+import kodllamaio.HRMS.entities.concretes.Position;
 
 
-public interface JobTitleRepository extends JpaRepository<JobTitle,Integer> {
+public interface PositionRepository extends JpaRepository<Position,Integer> {
 
 }
