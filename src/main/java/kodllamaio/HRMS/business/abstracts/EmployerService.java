@@ -1,5 +1,5 @@
 package kodllamaio.HRMS.business.abstracts;
-
+//
 import java.util.List;
 
 import kodllamaio.HRMS.core.utilities.results.DataResult;
